@@ -1,4 +1,4 @@
-# Design and Development of Besta.Co the E-Commerce Website
+# Development of Food Order & Delivery Website
 
 <img src="imgreadme/ProjectOrderDelivery.png" width="45%">
 
