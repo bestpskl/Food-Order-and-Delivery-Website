@@ -1,8 +1,8 @@
 # Development of Food Order & Delivery Website
 
-<img src="imgreadme/ProjectOrderDelivery.png" width="45%">
+<img src="imgreadme/ProjectOrderDelivery.png" width="55%">
 
-**Development of Food Order & Delivery Website** is project which is developed for using advanced frontend development concepts like React Hooks and other React features to develop website based on Food Delivery Business, using HTML, CSS, JavaScript and React JS
+**Development of Food Order & Delivery Website** is project which is developed for using advanced frontend development concepts with React core features and React Hooks  to develop website based on Food Delivery Business, using HTML, CSS, JavaScript and React JS
 
 ---
 
